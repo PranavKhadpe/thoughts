@@ -94,8 +94,8 @@ publishing:
     writeStubs: false
     siteRootDir: docs
     seo:
-        title: Dendron
-        description: Personal Knowledge Space
+        title: Pranav's Thoughts
+        description: Thinking out loud
     github:
         enableEditLink: true
         editLinkText: Edit this page on GitHub
