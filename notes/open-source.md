@@ -2,7 +2,7 @@
 id: rilif2c6etwg4kjgdq53f3j
 title: Open Source
 desc: ''
-updated: 1658162560856
+updated: 1660245674015
 created: 1656008130704
 ---
 
@@ -25,3 +25,5 @@ One interviewee pointed out that large companies like Google/FB don't actually j
 
 
 
+## Critique of liberalism from within liberalism
+Intellectual property rights and free speech are both strains of liberalism but the open source movement rejects IP rights while embracing free speech. Read [Coding Freedoms](https://gabriellacoleman.org/Coleman-Coding-Freedom.pdf)
