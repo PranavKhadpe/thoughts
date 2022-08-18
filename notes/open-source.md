@@ -2,7 +2,7 @@
 id: rilif2c6etwg4kjgdq53f3j
 title: Open Source
 desc: ''
-updated: 1660245674015
+updated: 1660838149840
 created: 1656008130704
 ---
 
@@ -23,6 +23,8 @@ One interviewee pointed out that large companies like Google/FB don't actually j
 
 ## Are programs like GSoC a net negative to organizations that `shepherd' contributions for people that never return?
 
+## Measuring software modularity and understanding how firms retain control
+Using something like [fractal figures](https://www.researchgate.net/publication/249607047_Analysing_Software_Repositories_to_Understand_Software_Evolution) to understand where firms retain control?
 
 
 ## Critique of liberalism from within liberalism
