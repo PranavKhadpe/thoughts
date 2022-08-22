@@ -2,10 +2,10 @@
 id: rilif2c6etwg4kjgdq53f3j
 title: Open Source
 desc: ''
-updated: 1660846459116
+updated: 1661190294139
 created: 1656008130704
 ---
-
+Re: mobilization of networks around technologies: [this paper](https://dl.acm.org/doi/pdf/10.1145/3025453.3026056)
 
 > Build a big business on top of and around a successful platform by adding something of your own that is both substantial and differentiated. Take, for example, our national road and highway system. If you view it as the transportation platform, you start to see the host of highly differentiated businesses that have been built on top of it, ranging from FedEx to Tesla. The ridesharing service Lyft is building its business on top of that same transportation platform, as well as Amazon’s AWS platform.
 
