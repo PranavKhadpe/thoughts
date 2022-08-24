@@ -2,7 +2,7 @@
 id: rilif2c6etwg4kjgdq53f3j
 title: Open Source
 desc: ''
-updated: 1661190294139
+updated: 1661372773647
 created: 1656008130704
 ---
 Re: mobilization of networks around technologies: [this paper](https://dl.acm.org/doi/pdf/10.1145/3025453.3026056)
@@ -31,6 +31,12 @@ the solution transparent” (Simon, 1996, pp. 108 and 132). In other words, good
 help illuminate important dimensions of a problem.
 
 Using something like [fractal figures](https://www.researchgate.net/publication/249607047_Analysing_Software_Repositories_to_Understand_Software_Evolution) to understand where firms retain control?
+
+Other examples:
+[Comparing Repositories Visually with RepoGrams](https://dl.acm.org/doi/pdf/10.1145/2901739.2901768)
+
+[Visualization of CVS repository information](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4023993)
+
 
 
 ## Critique of liberalism from within liberalism
