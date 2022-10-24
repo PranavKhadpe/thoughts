@@ -1,0 +1,171 @@
+{
+  "roots": [
+    {
+      "key": "root",
+      "title": "Pranav's thoughts",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "Dendron",
+      "navExclude": false,
+      "children": [
+        {
+          "key": "4u6pv56mnt25d8l2wzfygu7",
+          "title": "Getting Started",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "epmpyk2kjdxqyvflotan2vt",
+              "title": "User Interface",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "yyfpeq3th3h17cgvj8cnjw5",
+              "title": "Taking Notes",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "khv6u4514vnvvy4njhctfru",
+              "title": "Linking Notes",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "lxrp006mal1tfsd7nxmsobe",
+              "title": "Rich Formatting",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "kyjfnf2rnc6vn71iyn9liz7",
+              "title": "Conclusion",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "o1oambos4gw8hcf2ydwc3vu",
+          "title": "Formula 1",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "vma3l4dqtk4f4n8q7xj8mqp",
+              "title": "Engines as Platforms",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "w1ule0kmpf9h4flqtiey9y2",
+          "title": "Microgrants",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "rilif2c6etwg4kjgdq53f3j",
+          "title": "Open Source",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "jsly66pkhi90f9q4iro9zka",
+              "title": "Benefits of Community",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "59ilmz7z2imx6izdezo8m0z",
+              "title": "CPRM-problems",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "t4imvx2ahpt86bnsh22kpbo",
+              "title": "Programs as Lossy Representations",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "yhuydhanukebkv682lsqj8k",
+          "title": "Platforms Thinking",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "zvumu229nuo0izhzxsdoe9g",
+          "title": "Social Software the Hard Parts",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron",
+          "navExclude": false,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "403": null,
+    "root": null,
+    "o1oambos4gw8hcf2ydwc3vu": "root",
+    "vma3l4dqtk4f4n8q7xj8mqp": "o1oambos4gw8hcf2ydwc3vu",
+    "4u6pv56mnt25d8l2wzfygu7": "root",
+    "epmpyk2kjdxqyvflotan2vt": "4u6pv56mnt25d8l2wzfygu7",
+    "yyfpeq3th3h17cgvj8cnjw5": "4u6pv56mnt25d8l2wzfygu7",
+    "lxrp006mal1tfsd7nxmsobe": "4u6pv56mnt25d8l2wzfygu7",
+    "khv6u4514vnvvy4njhctfru": "4u6pv56mnt25d8l2wzfygu7",
+    "kyjfnf2rnc6vn71iyn9liz7": "4u6pv56mnt25d8l2wzfygu7",
+    "zvumu229nuo0izhzxsdoe9g": "root",
+    "yhuydhanukebkv682lsqj8k": "root",
+    "rilif2c6etwg4kjgdq53f3j": "root",
+    "t4imvx2ahpt86bnsh22kpbo": "rilif2c6etwg4kjgdq53f3j",
+    "jsly66pkhi90f9q4iro9zka": "rilif2c6etwg4kjgdq53f3j",
+    "59ilmz7z2imx6izdezo8m0z": "rilif2c6etwg4kjgdq53f3j",
+    "w1ule0kmpf9h4flqtiey9y2": "root"
+  }
+}
